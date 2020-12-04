@@ -1,3 +1,5 @@
 # Coding Examples
 
-Basic coding examples with comments on why certain decisions were made
+Basic coding examples with technical comments
+
+Please view the files in ascending order
