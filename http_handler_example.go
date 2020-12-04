@@ -89,7 +89,7 @@ func (c *Controller) InitializeUserSettings() error {
     // i want every function that has the same receiver to have the modified data.
     c.settingsData = usd
 
-	return nil
+    return nil
 }
 
 // POST /v1/update-settings
